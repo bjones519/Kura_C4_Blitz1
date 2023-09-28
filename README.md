@@ -1,1 +1,9 @@
-# Kura_C4_Blitz1
+
+## Purpose
+
+## Issues
+
+## System Design
+![AWS](screenshots/ElasticBeanstalk.png)
+
+## Optimizations
