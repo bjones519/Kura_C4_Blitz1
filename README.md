@@ -3,7 +3,7 @@
 Better understand the benefits of using a content delivery network like AWS Cloudfront when a web application is experiency latency due to a spike in end users trying to access the application.
 
 ## Issues
-There was a sudden influx of users trying to access our URL Shortner web application and they were experiencing issues with load times. The latency users were experiencing was at 40 ms.
+There was a sudden influx of users trying to access our URL Shortner web application in a short amount of time and they were experiencing issues with load times. The latency users were experiencing was at 40 ms.
 
 ## System Design
 ![AWS](screenshots/ElasticBeanstalk.png)
